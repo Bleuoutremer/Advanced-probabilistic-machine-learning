@@ -1,0 +1,999 @@
+﻿team1,team2,score1,score2,RESULT,SCORE_DIFF
+Phoenix Suns,Utah Jazz,106,95,W,11
+Philadelphia 76ers,Orlando Magic,116,92,W,24
+New Orleans Pelicans,Oklahoma City Thunder,113,80,W,33
+Oklahoma City Thunder,New Orleans Pelicans,80,113,L,-33
+Sacramento Kings,Houston Rockets,119,122,L,-3
+Houston Rockets,Sacramento Kings,122,119,W,3
+Chicago Bulls,Washington Wizards,133,130,W,3
+Washington Wizards,Chicago Bulls,130,133,L,-3
+Cleveland Cavaliers,Indiana Pacers,99,119,L,-20
+Indiana Pacers,Cleveland Cavaliers,119,99,W,20
+New York Knicks,Toronto Raptors,83,100,L,-17
+Toronto Raptors,New York Knicks,100,83,W,17
+Los Angeles Lakers,San Antonio Spurs,121,107,W,14
+San Antonio Spurs,Los Angeles Lakers,107,121,L,-14
+Portland Trail Blazers,Los Angeles Clippers,105,128,L,-23
+Los Angeles Clippers,Portland Trail Blazers,128,105,W,23
+Charlotte Hornets,Dallas Mavericks,118,99,W,19
+Dallas Mavericks,Charlotte Hornets,99,118,L,-19
+Atlanta Hawks,Brooklyn Nets,141,145,L,-4
+Brooklyn Nets,Atlanta Hawks,145,141,W,4
+Memphis Grizzlies,Boston Celtics,107,126,L,-19
+Boston Celtics,Memphis Grizzlies,126,107,W,19
+Milwaukee Bucks,Miami Heat,108,119,L,-11
+Miami Heat,Milwaukee Bucks,119,108,W,11
+New Orleans Pelicans,Phoenix Suns,86,111,L,-25
+Phoenix Suns,New Orleans Pelicans,111,86,W,25
+Chicago Bulls,Washington Wizards,115,107,W,8
+Washington Wizards,Chicago Bulls,107,115,L,-8
+New York Knicks,Cleveland Cavaliers,95,86,W,9
+Cleveland Cavaliers,New York Knicks,86,95,L,-9
+Denver Nuggets,Sacramento Kings,115,125,L,-10
+Sacramento Kings,Denver Nuggets,125,115,W,10
+Golden State Warriors,Detroit Pistons,116,106,W,10
+Detroit Pistons,Golden State Warriors,106,116,L,-10
+Orlando Magic,Oklahoma City Thunder,118,107,W,11
+Oklahoma City Thunder,Orlando Magic,107,118,L,-11
+Minnesota Timberwolves,Los Angeles Clippers,101,124,L,-23
+Los Angeles Clippers,Minnesota Timberwolves,124,101,W,23
+Milwaukee Bucks,Miami Heat,144,97,W,47
+Miami Heat,Milwaukee Bucks,97,144,L,-47
+Toronto Raptors,Philadelphia 76ers,93,100,L,-7
+Philadelphia 76ers,Toronto Raptors,100,93,W,7
+Boston Celtics,Indiana Pacers,116,111,W,5
+Indiana Pacers,Boston Celtics,111,116,L,-5
+Detroit Pistons,Atlanta Hawks,120,128,L,-8
+Atlanta Hawks,Detroit Pistons,128,120,W,8
+Portland Trail Blazers,Los Angeles Lakers,115,107,W,8
+Los Angeles Lakers,Portland Trail Blazers,107,115,L,-8
+Memphis Grizzlies,Brooklyn Nets,116,111,W,5
+Brooklyn Nets,Memphis Grizzlies,111,116,L,-5
+Houston Rockets,Denver Nuggets,111,124,L,-13
+Denver Nuggets,Houston Rockets,124,111,W,13
+Utah Jazz,Oklahoma City Thunder,110,109,W,1
+Oklahoma City Thunder,Utah Jazz,109,110,L,-1
+Boston Celtics,Indiana Pacers,107,108,L,-1
+Indiana Pacers,Boston Celtics,108,107,W,1
+Phoenix Suns,Sacramento Kings,116,100,W,16
+Sacramento Kings,Phoenix Suns,100,116,L,-16
+San Antonio Spurs,New Orleans Pelicans,95,98,L,-3
+New Orleans Pelicans,San Antonio Spurs,98,95,W,3
+Orlando Magic,Washington Wizards,120,113,W,7
+Washington Wizards,Orlando Magic,113,120,L,-7
+Brooklyn Nets,Charlotte Hornets,104,106,L,-2
+Charlotte Hornets,Brooklyn Nets,106,104,W,2
+Golden State Warriors,Chicago Bulls,129,128,W,1
+Chicago Bulls,Golden State Warriors,128,129,L,-1
+Minnesota Timberwolves,Los Angeles Lakers,91,127,L,-36
+Los Angeles Lakers,Minnesota Timberwolves,127,91,W,36
+Dallas Mavericks,Los Angeles Clippers,124,73,W,51
+Los Angeles Clippers,Dallas Mavericks,73,124,L,-51
+Milwaukee Bucks,New York Knicks,110,130,L,-20
+New York Knicks,Milwaukee Bucks,130,110,W,20
+Philadelphia 76ers,Cleveland Cavaliers,94,118,L,-24
+Cleveland Cavaliers,Detroit Pistons,128,119,W,9
+Detroit Pistons,Cleveland Cavaliers,119,128,L,-9
+Houston Rockets,Portland Trail Blazers,126,128,L,-2
+Portland Trail Blazers,Houston Rockets,128,126,W,2
+Indiana Pacers,Chicago Bulls,125,106,W,19
+Chicago Bulls,Indiana Pacers,106,125,L,-19
+Phoenix Suns,Sacramento Kings,103,106,L,-3
+Sacramento Kings,Phoenix Suns,106,103,W,3
+Atlanta Hawks,Memphis Grizzlies,122,112,W,10
+Memphis Grizzlies,Atlanta Hawks,112,122,L,-10
+Orlando Magic,Washington Wizards,130,120,W,10
+Washington Wizards,Orlando Magic,120,130,L,-10
+Minnesota Timberwolves,Utah Jazz,116,111,W,5
+Utah Jazz,Minnesota Timberwolves,111,116,L,-5
+Toronto Raptors,San Antonio Spurs,114,119,L,-5
+San Antonio Spurs,Toronto Raptors,119,114,W,5
+Philadelphia 76ers,New York Knicks,109,89,W,20
+New York Knicks,Philadelphia 76ers,89,109,L,-20
+Oklahoma City Thunder,Charlotte Hornets,109,107,W,2
+Charlotte Hornets,Oklahoma City Thunder,107,109,L,-2
+Los Angeles Clippers,Denver Nuggets,121,108,W,13
+Denver Nuggets,Los Angeles Clippers,108,121,L,-13
+New Orleans Pelicans,Miami Heat,98,111,L,-13
+Miami Heat,New Orleans Pelicans,111,98,W,13
+Brooklyn Nets,Boston Celtics,123,95,W,28
+Boston Celtics,Brooklyn Nets,95,123,L,-28
+Dallas Mavericks,Los Angeles Lakers,115,138,L,-23
+Los Angeles Lakers,Dallas Mavericks,138,115,W,23
+Golden State Warriors,Milwaukee Bucks,99,138,L,-39
+Milwaukee Bucks,Golden State Warriors,138,99,W,39
+Utah Jazz,Portland Trail Blazers,120,100,W,20
+Portland Trail Blazers,Utah Jazz,100,120,L,-20
+Milwaukee Bucks,Boston Celtics,121,122,L,-1
+Boston Celtics,Milwaukee Bucks,122,121,W,1
+Atlanta Hawks,Chicago Bulls,124,104,W,20
+Chicago Bulls,Atlanta Hawks,104,124,L,-20
+Charlotte Hornets,Cleveland Cavaliers,114,121,L,-7
+Cleveland Cavaliers,Charlotte Hornets,121,114,W,7
+Washington Wizards,Philadelphia 76ers,107,113,L,-6
+Philadelphia 76ers,Washington Wizards,113,107,W,6
+New York Knicks,Indiana Pacers,107,121,L,-14
+Indiana Pacers,New York Knicks,121,107,W,14
+San Antonio Spurs,Memphis Grizzlies,131,119,W,12
+Memphis Grizzlies,San Antonio Spurs,119,131,L,-12
+Detroit Pistons,Minnesota Timberwolves,101,111,L,-10
+Minnesota Timberwolves,Detroit Pistons,111,101,W,10
+New Orleans Pelicans,Toronto Raptors,113,99,W,14
+Toronto Raptors,New Orleans Pelicans,99,113,L,-14
+Sacramento Kings,Denver Nuggets,124,122,W,2
+Denver Nuggets,Sacramento Kings,122,124,L,-2
+Miami Heat,Orlando Magic,107,113,L,-6
+Orlando Magic,Miami Heat,113,107,W,6
+Dallas Mavericks,Phoenix Suns,102,106,L,-4
+Phoenix Suns,Dallas Mavericks,106,102,W,4
+Los Angeles Clippers,Los Angeles Lakers,116,109,W,7
+Los Angeles Lakers,Los Angeles Clippers,109,116,L,-7
+Golden State Warriors,Brooklyn Nets,99,125,L,-26
+Brooklyn Nets,Golden State Warriors,125,99,W,26
+Los Angeles Lakers,Miami Heat,106,93,W,13
+Miami Heat,Los Angeles Lakers,111,108,W,3
+Los Angeles Lakers,Miami Heat,102,96,W,6
+Miami Heat,Los Angeles Lakers,96,102,L,-6
+Los Angeles Lakers,Miami Heat,104,115,L,-11
+Miami Heat,Los Angeles Lakers,114,124,L,-10
+Los Angeles Lakers,Miami Heat,124,114,W,10
+Miami Heat,Los Angeles Lakers,98,116,L,-18
+Los Angeles Lakers,Miami Heat,116,98,W,18
+Boston Celtics,Miami Heat,113,125,L,-12
+Miami Heat,Boston Celtics,125,113,W,12
+Denver Nuggets,Los Angeles Lakers,107,117,L,-10
+Los Angeles Lakers,Denver Nuggets,117,107,W,10
+Miami Heat,Boston Celtics,108,121,L,-13
+Boston Celtics,Miami Heat,121,108,W,13
+Los Angeles Lakers,Denver Nuggets,114,108,W,6
+Denver Nuggets,Los Angeles Lakers,108,114,L,-6
+Boston Celtics,Miami Heat,109,112,L,-3
+Miami Heat,Boston Celtics,112,109,W,3
+Los Angeles Lakers,Denver Nuggets,106,114,L,-8
+Denver Nuggets,Los Angeles Lakers,103,105,L,-2
+Los Angeles Lakers,Denver Nuggets,105,103,W,2
+Boston Celtics,Miami Heat,117,106,W,11
+Miami Heat,Boston Celtics,106,117,L,-11
+Denver Nuggets,Los Angeles Lakers,114,126,L,-12
+Los Angeles Lakers,Denver Nuggets,126,114,W,12
+Miami Heat,Boston Celtics,106,101,W,5
+Boston Celtics,Miami Heat,101,106,L,-5
+Denver Nuggets,Los Angeles Clippers,104,89,W,15
+Los Angeles Clippers,Denver Nuggets,89,104,L,-15
+Miami Heat,Boston Celtics,117,114,W,3
+Boston Celtics,Miami Heat,114,117,L,-3
+Los Angeles Clippers,Denver Nuggets,98,111,L,-13
+Denver Nuggets,Los Angeles Clippers,111,98,W,13
+Houston Rockets,Los Angeles Lakers,96,119,L,-23
+Los Angeles Lakers,Houston Rockets,119,96,W,23
+Denver Nuggets,Los Angeles Clippers,111,105,W,6
+Los Angeles Clippers,Denver Nuggets,105,111,L,-6
+Boston Celtics,Toronto Raptors,92,87,W,5
+Toronto Raptors,Boston Celtics,87,92,L,-5
+Los Angeles Lakers,Houston Rockets,110,100,W,10
+Houston Rockets,Los Angeles Lakers,100,110,L,-10
+Toronto Raptors,Boston Celtics,125,122,W,3
+Boston Celtics,Toronto Raptors,122,125,L,-3
+Los Angeles Clippers,Denver Nuggets,96,85,W,11
+Denver Nuggets,Los Angeles Clippers,85,96,L,-11
+Miami Heat,Milwaukee Bucks,103,94,W,9
+Milwaukee Bucks,Miami Heat,94,103,L,-9
+Los Angeles Lakers,Houston Rockets,112,102,W,10
+Houston Rockets,Los Angeles Lakers,102,112,L,-10
+Boston Celtics,Toronto Raptors,111,89,W,22
+Toronto Raptors,Boston Celtics,89,111,L,-22
+Los Angeles Clippers,Denver Nuggets,113,107,W,6
+Denver Nuggets,Los Angeles Clippers,107,113,L,-6
+Milwaukee Bucks,Miami Heat,118,115,W,3
+Miami Heat,Milwaukee Bucks,115,118,L,-3
+Houston Rockets,Los Angeles Lakers,109,117,L,-8
+Los Angeles Lakers,Houston Rockets,117,109,W,8
+Denver Nuggets,Los Angeles Clippers,110,101,W,9
+Los Angeles Clippers,Denver Nuggets,101,110,L,-9
+Toronto Raptors,Boston Celtics,100,93,W,7
+Boston Celtics,Toronto Raptors,93,100,L,-7
+Milwaukee Bucks,Miami Heat,100,115,L,-15
+Miami Heat,Milwaukee Bucks,115,100,W,15
+Houston Rockets,Los Angeles Lakers,112,97,W,15
+Los Angeles Lakers,Houston Rockets,97,112,L,-15
+Denver Nuggets,Los Angeles Clippers,97,120,L,-23
+Los Angeles Clippers,Denver Nuggets,120,97,W,23
+Toronto Raptors,Boston Celtics,104,103,W,1
+Boston Celtics,Toronto Raptors,103,104,L,-1
+Miami Heat,Milwaukee Bucks,116,114,W,2
+Milwaukee Bucks,Miami Heat,114,116,L,-2
+Oklahoma City Thunder,Houston Rockets,102,104,L,-2
+Houston Rockets,Oklahoma City Thunder,104,102,W,2
+Boston Celtics,Toronto Raptors,102,99,W,3
+Toronto Raptors,Boston Celtics,99,102,L,-3
+Utah Jazz,Denver Nuggets,78,80,L,-2
+Denver Nuggets,Utah Jazz,80,78,W,2
+Miami Heat,Milwaukee Bucks,115,104,W,11
+Milwaukee Bucks,Miami Heat,104,115,L,-11
+Houston Rockets,Oklahoma City Thunder,100,104,L,-4
+Oklahoma City Thunder,Houston Rockets,104,100,W,4
+Boston Celtics,Toronto Raptors,112,94,W,18
+Toronto Raptors,Boston Celtics,94,112,L,-18
+Los Angeles Clippers,Dallas Mavericks,111,97,W,14
+Dallas Mavericks,Los Angeles Clippers,97,111,L,-14
+Denver Nuggets,Utah Jazz,119,107,W,12
+Utah Jazz,Denver Nuggets,107,119,L,-12
+Oklahoma City Thunder,Houston Rockets,80,114,L,-34
+Houston Rockets,Oklahoma City Thunder,114,80,W,34
+Orlando Magic,Milwaukee Bucks,104,118,L,-14
+Milwaukee Bucks,Orlando Magic,118,104,W,14
+Portland Trail Blazers,Los Angeles Lakers,122,131,L,-9
+Los Angeles Lakers,Portland Trail Blazers,131,122,W,9
+Utah Jazz,Denver Nuggets,107,117,L,-10
+Denver Nuggets,Utah Jazz,117,107,W,10
+Dallas Mavericks,Los Angeles Clippers,111,154,L,-43
+Los Angeles Clippers,Dallas Mavericks,154,111,W,43
+Los Angeles Lakers,Portland Trail Blazers,135,115,W,20
+Portland Trail Blazers,Los Angeles Lakers,115,135,L,-20
+Houston Rockets,Oklahoma City Thunder,114,117,L,-3
+Oklahoma City Thunder,Houston Rockets,117,114,W,3
+Indiana Pacers,Miami Heat,87,99,L,-12
+Miami Heat,Indiana Pacers,99,87,W,12
+Milwaukee Bucks,Orlando Magic,121,106,W,15
+Orlando Magic,Milwaukee Bucks,106,121,L,-15
+Toronto Raptors,Brooklyn Nets,150,122,W,28
+Brooklyn Nets,Toronto Raptors,122,150,L,-28
+Denver Nuggets,Utah Jazz,127,129,L,-2
+Utah Jazz,Denver Nuggets,129,127,W,2
+Los Angeles Clippers,Dallas Mavericks,133,135,L,-2
+Dallas Mavericks,Los Angeles Clippers,135,133,W,2
+Boston Celtics,Philadelphia 76ers,110,106,W,4
+Philadelphia 76ers,Boston Celtics,106,110,L,-4
+Milwaukee Bucks,Orlando Magic,121,107,W,14
+Orlando Magic,Milwaukee Bucks,107,121,L,-14
+Houston Rockets,Oklahoma City Thunder,107,119,L,-12
+Oklahoma City Thunder,Houston Rockets,119,107,W,12
+Los Angeles Lakers,Portland Trail Blazers,116,108,W,8
+Portland Trail Blazers,Los Angeles Lakers,108,116,L,-8
+Indiana Pacers,Miami Heat,115,124,L,-9
+Miami Heat,Indiana Pacers,124,115,W,9
+Toronto Raptors,Brooklyn Nets,117,92,W,25
+Brooklyn Nets,Toronto Raptors,92,117,L,-25
+Los Angeles Clippers,Dallas Mavericks,130,122,W,8
+Dallas Mavericks,Los Angeles Clippers,122,130,L,-8
+Boston Celtics,Philadelphia 76ers,102,94,W,8
+Philadelphia 76ers,Boston Celtics,94,102,L,-8
+Denver Nuggets,Utah Jazz,87,124,L,-37
+Utah Jazz,Denver Nuggets,124,87,W,37
+Orlando Magic,Milwaukee Bucks,96,111,L,-15
+Milwaukee Bucks,Orlando Magic,111,96,W,15
+Miami Heat,Indiana Pacers,109,100,W,9
+Indiana Pacers,Miami Heat,100,109,L,-9
+Portland Trail Blazers,Los Angeles Lakers,88,111,L,-23
+Los Angeles Lakers,Portland Trail Blazers,111,88,W,23
+Oklahoma City Thunder,Houston Rockets,98,111,L,-13
+Houston Rockets,Oklahoma City Thunder,111,98,W,13
+Philadelphia 76ers,Boston Celtics,101,128,L,-27
+Boston Celtics,Philadelphia 76ers,128,101,W,27
+Brooklyn Nets,Toronto Raptors,99,104,L,-5
+Toronto Raptors,Brooklyn Nets,104,99,W,5
+Utah Jazz,Denver Nuggets,124,105,W,19
+Denver Nuggets,Utah Jazz,105,124,L,-19
+Dallas Mavericks,Los Angeles Clippers,127,114,W,13
+Los Angeles Clippers,Dallas Mavericks,114,127,L,-13
+Portland Trail Blazers,Los Angeles Lakers,100,93,W,7
+Los Angeles Lakers,Portland Trail Blazers,93,100,L,-7
+Orlando Magic,Milwaukee Bucks,122,110,W,12
+Milwaukee Bucks,Orlando Magic,110,122,L,-12
+Miami Heat,Indiana Pacers,113,101,W,12
+Indiana Pacers,Miami Heat,101,113,L,-12
+Oklahoma City Thunder,Houston Rockets,108,123,L,-15
+Houston Rockets,Oklahoma City Thunder,123,108,W,15
+Brooklyn Nets,Toronto Raptors,110,134,L,-24
+Toronto Raptors,Brooklyn Nets,134,110,W,24
+Utah Jazz,Denver Nuggets,125,135,L,-10
+Denver Nuggets,Utah Jazz,135,125,W,10
+Dallas Mavericks,Los Angeles Clippers,110,118,L,-8
+Los Angeles Clippers,Dallas Mavericks,118,110,W,8
+Philadelphia 76ers,Boston Celtics,101,109,L,-8
+Boston Celtics,Philadelphia 76ers,109,101,W,8
+Memphis Grizzlies,Portland Trail Blazers,122,126,L,-4
+Portland Trail Blazers,Memphis Grizzlies,126,122,W,4
+Miami Heat,Indiana Pacers,92,109,L,-17
+Indiana Pacers,Miami Heat,109,92,W,17
+Oklahoma City Thunder,Los Angeles Clippers,103,107,L,-4
+Los Angeles Clippers,Oklahoma City Thunder,107,103,W,4
+Denver Nuggets,Toronto Raptors,109,117,L,-8
+Toronto Raptors,Denver Nuggets,117,109,W,8
+Philadelphia 76ers,Houston Rockets,134,96,W,38
+Houston Rockets,Philadelphia 76ers,96,134,L,-38
+New Orleans Pelicans,Orlando Magic,127,133,L,-6
+Orlando Magic,New Orleans Pelicans,133,127,W,6
+Washington Wizards,Boston Celtics,96,90,W,6
+Boston Celtics,Washington Wizards,90,96,L,-6
+San Antonio Spurs,Utah Jazz,112,118,L,-6
+Utah Jazz,San Antonio Spurs,118,112,W,6
+Sacramento Kings,Los Angeles Lakers,136,122,W,14
+Los Angeles Lakers,Sacramento Kings,122,136,L,-14
+Milwaukee Bucks,Memphis Grizzlies,106,119,L,-13
+Memphis Grizzlies,Milwaukee Bucks,119,106,W,13
+Dallas Mavericks,Phoenix Suns,102,128,L,-26
+Phoenix Suns,Dallas Mavericks,128,102,W,26
+Portland Trail Blazers,Brooklyn Nets,134,133,W,1
+Brooklyn Nets,Portland Trail Blazers,133,134,L,-1
+Toronto Raptors,Philadelphia 76ers,125,121,W,4
+Philadelphia 76ers,Toronto Raptors,121,125,L,-4
+Indiana Pacers,Houston Rockets,108,104,W,4
+Houston Rockets,Indiana Pacers,104,108,L,-4
+Miami Heat,Oklahoma City Thunder,115,116,L,-1
+Oklahoma City Thunder,Miami Heat,116,115,W,1
+Los Angeles Clippers,Denver Nuggets,124,111,W,13
+Denver Nuggets,Los Angeles Clippers,111,124,L,-13
+Houston Rockets,San Antonio Spurs,105,123,L,-18
+San Antonio Spurs,Houston Rockets,123,105,W,18
+Phoenix Suns,Philadelphia 76ers,130,117,W,13
+Philadelphia 76ers,Phoenix Suns,117,130,L,-13
+Boston Celtics,Memphis Grizzlies,122,107,W,15
+Memphis Grizzlies,Boston Celtics,107,122,L,-15
+Portland Trail Blazers,Dallas Mavericks,134,131,W,3
+Dallas Mavericks,Portland Trail Blazers,131,134,L,-3
+Milwaukee Bucks,Washington Wizards,126,113,W,13
+Washington Wizards,Milwaukee Bucks,113,126,L,-13
+New Orleans Pelicans,Sacramento Kings,106,112,L,-6
+Sacramento Kings,New Orleans Pelicans,112,106,W,6
+Brooklyn Nets,Orlando Magic,108,96,W,12
+Orlando Magic,Brooklyn Nets,96,108,L,-12
+Indiana Pacers,Miami Heat,92,114,L,-22
+Miami Heat,Indiana Pacers,114,92,W,22
+Denver Nuggets,Los Angeles Lakers,121,124,L,-3
+Los Angeles Lakers,Denver Nuggets,124,121,W,3
+Oklahoma City Thunder,Phoenix Suns,101,128,L,-27
+Phoenix Suns,Oklahoma City Thunder,128,101,W,27
+Dallas Mavericks,Utah Jazz,122,114,W,8
+Utah Jazz,Dallas Mavericks,114,122,L,-8
+Toronto Raptors,Milwaukee Bucks,114,106,W,8
+Milwaukee Bucks,Toronto Raptors,106,114,L,-8
+Washington Wizards,Oklahoma City Thunder,103,121,L,-18
+Oklahoma City Thunder,Washington Wizards,121,103,W,18
+Memphis Grizzlies,Toronto Raptors,99,108,L,-9
+Toronto Raptors,Memphis Grizzlies,108,99,W,9
+Philadelphia 76ers,Portland Trail Blazers,121,124,L,-3
+Portland Trail Blazers,Philadelphia 76ers,124,121,W,3
+Brooklyn Nets,Los Angeles Clippers,129,120,W,9
+Los Angeles Clippers,Brooklyn Nets,120,129,L,-9
+Houston Rockets,Sacramento Kings,129,112,W,17
+Sacramento Kings,Houston Rockets,112,129,L,-17
+Orlando Magic,Boston Celtics,119,122,L,-3
+Boston Celtics,Orlando Magic,122,119,W,3
+San Antonio Spurs,New Orleans Pelicans,122,113,W,9
+New Orleans Pelicans,San Antonio Spurs,113,122,L,-9
+Los Angeles Clippers,Portland Trail Blazers,122,117,W,5
+Portland Trail Blazers,Los Angeles Clippers,117,122,L,-5
+Milwaukee Bucks,Dallas Mavericks,132,136,L,-4
+Dallas Mavericks,Milwaukee Bucks,136,132,W,4
+Utah Jazz,Denver Nuggets,132,134,L,-2
+Denver Nuggets,Utah Jazz,134,132,W,2
+Los Angeles Lakers,Indiana Pacers,111,116,L,-5
+Indiana Pacers,Los Angeles Lakers,116,111,W,5
+Phoenix Suns,Miami Heat,119,112,W,7
+Miami Heat,Phoenix Suns,112,119,L,-7
+Utah Jazz,San Antonio Spurs,111,119,L,-8
+San Antonio Spurs,Utah Jazz,119,111,W,8
+Washington Wizards,New Orleans Pelicans,107,118,L,-11
+New Orleans Pelicans,Washington Wizards,118,107,W,11
+Boston Celtics,Toronto Raptors,122,100,W,22
+Toronto Raptors,Boston Celtics,100,122,L,-22
+Sacramento Kings,Brooklyn Nets,106,119,L,-13
+Brooklyn Nets,Sacramento Kings,119,106,W,13
+Oklahoma City Thunder,Memphis Grizzlies,92,121,L,-29
+Memphis Grizzlies,Oklahoma City Thunder,121,92,W,29
+Orlando Magic,Philadelphia 76ers,101,108,L,-7
+Philadelphia 76ers,Orlando Magic,108,101,W,7
+Portland Trail Blazers,Denver Nuggets,125,115,W,10
+Denver Nuggets,Portland Trail Blazers,115,125,L,-10
+Los Angeles Clippers,Dallas Mavericks,126,111,W,15
+Dallas Mavericks,Los Angeles Clippers,111,126,L,-15
+Indiana Pacers,Phoenix Suns,99,114,L,-15
+Phoenix Suns,Indiana Pacers,114,99,W,15
+Miami Heat,Milwaukee Bucks,116,130,L,-14
+Milwaukee Bucks,Miami Heat,130,116,W,14
+Los Angeles Lakers,Houston Rockets,97,113,L,-16
+Houston Rockets,Los Angeles Lakers,113,97,W,16
+New Orleans Pelicans,Sacramento Kings,125,140,L,-15
+Sacramento Kings,New Orleans Pelicans,140,125,W,15
+Brooklyn Nets,Boston Celtics,115,149,L,-34
+Boston Celtics,Brooklyn Nets,149,115,W,34
+Toronto Raptors,Orlando Magic,109,99,W,10
+Orlando Magic,Toronto Raptors,99,109,L,-10
+Memphis Grizzlies,Utah Jazz,115,124,L,-9
+Utah Jazz,Memphis Grizzlies,124,115,W,9
+Philadelphia 76ers,Washington Wizards,107,98,W,9
+Washington Wizards,Philadelphia 76ers,98,107,L,-9
+Oklahoma City Thunder,Los Angeles Lakers,105,86,W,19
+Los Angeles Lakers,Oklahoma City Thunder,86,105,L,-19
+Denver Nuggets,San Antonio Spurs,132,126,W,6
+San Antonio Spurs,Denver Nuggets,126,132,L,-6
+Houston Rockets,Portland Trail Blazers,102,110,L,-8
+Portland Trail Blazers,Houston Rockets,110,102,W,8
+Dallas Mavericks,Sacramento Kings,114,110,W,4
+Sacramento Kings,Dallas Mavericks,110,114,L,-4
+Phoenix Suns,Los Angeles Clippers,117,115,W,2
+Los Angeles Clippers,Phoenix Suns,115,117,L,-2
+Orlando Magic,Indiana Pacers,109,120,L,-11
+Indiana Pacers,Orlando Magic,120,109,W,11
+Brooklyn Nets,Milwaukee Bucks,119,116,W,3
+Milwaukee Bucks,Brooklyn Nets,116,119,L,-3
+Boston Celtics,Miami Heat,106,112,L,-6
+Miami Heat,Boston Celtics,112,106,W,6
+Los Angeles Lakers,Utah Jazz,116,108,W,8
+Utah Jazz,Los Angeles Lakers,108,116,L,-8
+Toronto Raptors,Miami Heat,107,103,W,4
+Miami Heat,Toronto Raptors,103,107,L,-4
+Memphis Grizzlies,New Orleans Pelicans,99,109,L,-10
+New Orleans Pelicans,Memphis Grizzlies,109,99,W,10
+San Antonio Spurs,Philadelphia 76ers,130,132,L,-2
+Philadelphia 76ers,San Antonio Spurs,132,130,W,2
+Indiana Pacers,Washington Wizards,111,100,W,11
+Washington Wizards,Indiana Pacers,100,111,L,-11
+Denver Nuggets,Oklahoma City Thunder,121,113,W,8
+Oklahoma City Thunder,Denver Nuggets,113,121,L,-8
+Milwaukee Bucks,Houston Rockets,116,120,L,-4
+Houston Rockets,Milwaukee Bucks,120,116,W,4
+Washington Wizards,Brooklyn Nets,110,118,L,-8
+Brooklyn Nets,Washington Wizards,118,110,W,8
+Sacramento Kings,Orlando Magic,116,132,L,-16
+Orlando Magic,Sacramento Kings,132,116,W,16
+Portland Trail Blazers,Boston Celtics,124,128,L,-4
+Boston Celtics,Portland Trail Blazers,128,124,W,4
+San Antonio Spurs,Memphis Grizzlies,108,106,W,2
+Memphis Grizzlies,San Antonio Spurs,106,108,L,-2
+Dallas Mavericks,Phoenix Suns,115,117,L,-2
+Phoenix Suns,Dallas Mavericks,117,115,W,2
+Utah Jazz,Oklahoma City Thunder,94,110,L,-16
+Oklahoma City Thunder,Utah Jazz,110,94,W,16
+Philadelphia 76ers,Indiana Pacers,121,127,L,-6
+Indiana Pacers,Philadelphia 76ers,127,121,W,6
+Los Angeles Lakers,Toronto Raptors,92,107,L,-15
+Toronto Raptors,Los Angeles Lakers,107,92,W,15
+New Orleans Pelicans,Los Angeles Clippers,103,126,L,-23
+Los Angeles Clippers,New Orleans Pelicans,126,103,W,23
+Miami Heat,Denver Nuggets,125,105,W,20
+Denver Nuggets,Miami Heat,105,125,L,-20
+Phoenix Suns,Washington Wizards,125,112,W,13
+Washington Wizards,Phoenix Suns,112,125,L,-13
+Memphis Grizzlies,Portland Trail Blazers,135,140,L,-5
+Portland Trail Blazers,Memphis Grizzlies,140,135,W,5
+Houston Rockets,Dallas Mavericks,153,149,W,4
+Dallas Mavericks,Houston Rockets,149,153,L,-4
+Boston Celtics,Milwaukee Bucks,112,119,L,-7
+Milwaukee Bucks,Boston Celtics,119,112,W,7
+Orlando Magic,Brooklyn Nets,128,118,W,10
+Brooklyn Nets,Orlando Magic,118,128,L,-10
+Sacramento Kings,San Antonio Spurs,120,129,L,-9
+San Antonio Spurs,Sacramento Kings,129,120,W,9
+Los Angeles Clippers,Los Angeles Lakers,101,103,L,-2
+Los Angeles Lakers,Los Angeles Clippers,103,101,W,2
+Utah Jazz,New Orleans Pelicans,106,104,W,2
+New Orleans Pelicans,Utah Jazz,104,106,L,-2
+Detroit Pistons,Philadelphia 76ers,106,124,L,-18
+Philadelphia 76ers,Detroit Pistons,124,106,W,18
+Denver Nuggets,Dallas Mavericks,97,113,L,-16
+Dallas Mavericks,Denver Nuggets,113,97,W,16
+Charlotte Hornets,Miami Heat,109,98,W,11
+Miami Heat,Charlotte Hornets,98,109,L,-11
+New York Knicks,Atlanta Hawks,136,131,W,5
+Atlanta Hawks,New York Knicks,131,136,L,-5
+Boston Celtics,Indiana Pacers,114,111,W,3
+Indiana Pacers,Boston Celtics,111,114,L,-3
+Cleveland Cavaliers,Chicago Bulls,103,108,L,-5
+Chicago Bulls,Cleveland Cavaliers,108,103,W,5
+Los Angeles Clippers,Golden State Warriors,131,107,W,24
+Golden State Warriors,Los Angeles Clippers,107,131,L,-24
+Dallas Mavericks,San Antonio Spurs,109,119,L,-10
+San Antonio Spurs,Dallas Mavericks,119,109,W,10
+New York Knicks,Washington Wizards,115,122,L,-7
+Washington Wizards,New York Knicks,122,115,W,7
+Orlando Magic,Memphis Grizzlies,120,115,W,5
+Memphis Grizzlies,Orlando Magic,115,120,L,-5
+Phoenix Suns,Portland Trail Blazers,105,121,L,-16
+Portland Trail Blazers,Phoenix Suns,121,105,W,16
+Brooklyn Nets,Los Angeles Lakers,104,102,W,2
+Los Angeles Lakers,Brooklyn Nets,102,104,L,-2
+Minnesota Timberwolves,Houston Rockets,111,117,L,-6
+Houston Rockets,Minnesota Timberwolves,117,111,W,6
+Milwaukee Bucks,Denver Nuggets,95,109,L,-14
+Denver Nuggets,Milwaukee Bucks,109,95,W,14
+Charlotte Hornets,Atlanta Hawks,138,143,L,-5
+Atlanta Hawks,Charlotte Hornets,143,138,W,5
+Toronto Raptors,Utah Jazz,101,92,W,9
+Utah Jazz,Toronto Raptors,92,101,L,-9
+Los Angeles Lakers,Los Angeles Clippers,112,103,W,9
+Los Angeles Clippers,Los Angeles Lakers,103,112,L,-9
+Detroit Pistons,New York Knicks,84,96,L,-12
+New York Knicks,Detroit Pistons,96,84,W,12
+Chicago Bulls,Brooklyn Nets,107,110,L,-3
+Brooklyn Nets,Chicago Bulls,110,107,W,3
+Oklahoma City Thunder,Boston Celtics,105,104,W,1
+Boston Celtics,Oklahoma City Thunder,104,105,L,-1
+San Antonio Spurs,Cleveland Cavaliers,129,132,L,-3
+Cleveland Cavaliers,San Antonio Spurs,132,129,W,3
+New Orleans Pelicans,Minnesota Timberwolves,120,107,W,13
+Minnesota Timberwolves,New Orleans Pelicans,107,120,L,-13
+Toronto Raptors,Sacramento Kings,118,113,W,5
+Sacramento Kings,Toronto Raptors,113,118,L,-5
+Miami Heat,Washington Wizards,100,89,W,11
+Washington Wizards,Miami Heat,89,100,L,-11
+Milwaukee Bucks,Phoenix Suns,131,140,L,-9
+Phoenix Suns,Milwaukee Bucks,140,131,W,9
+Indiana Pacers,Dallas Mavericks,112,109,W,3
+Dallas Mavericks,Indiana Pacers,109,112,L,-3
+Orlando Magic,Houston Rockets,126,106,W,20
+Houston Rockets,Orlando Magic,106,126,L,-20
+Sacramento Kings,Portland Trail Blazers,123,111,W,12
+Portland Trail Blazers,Sacramento Kings,111,123,L,-12
+Houston Rockets,Charlotte Hornets,99,108,L,-9
+Charlotte Hornets,Houston Rockets,108,99,W,9
+Denver Nuggets,Cleveland Cavaliers,102,104,L,-2
+Cleveland Cavaliers,Denver Nuggets,104,102,W,2
+Utah Jazz,Detroit Pistons,111,105,W,6
+Detroit Pistons,Utah Jazz,105,111,L,-6
+Philadelphia 76ers,Golden State Warriors,114,118,L,-4
+Golden State Warriors,Philadelphia 76ers,118,114,W,4
+Atlanta Hawks,Memphis Grizzlies,101,118,L,-17
+Memphis Grizzlies,Atlanta Hawks,118,101,W,17
+Portland Trail Blazers,Phoenix Suns,117,127,L,-10
+Phoenix Suns,Portland Trail Blazers,127,117,W,10
+Atlanta Hawks,Washington Wizards,112,118,L,-6
+Washington Wizards,Atlanta Hawks,118,112,W,6
+San Antonio Spurs,Brooklyn Nets,120,139,L,-19
+Brooklyn Nets,San Antonio Spurs,139,120,W,19
+Oklahoma City Thunder,New York Knicks,126,103,W,23
+New York Knicks,Oklahoma City Thunder,103,126,L,-23
+Orlando Magic,Minnesota Timberwolves,132,118,W,14
+Minnesota Timberwolves,Orlando Magic,118,132,L,-14
+Memphis Grizzlies,Dallas Mavericks,96,121,L,-25
+Dallas Mavericks,Memphis Grizzlies,121,96,W,25
+Indiana Pacers,Chicago Bulls,108,102,W,6
+Chicago Bulls,Indiana Pacers,102,108,L,-6
+Miami Heat,New Orleans Pelicans,104,110,L,-6
+New Orleans Pelicans,Miami Heat,110,104,W,6
+Utah Jazz,Boston Celtics,99,94,W,5
+Boston Celtics,Utah Jazz,94,99,L,-5
+Milwaukee Bucks,Los Angeles Lakers,103,113,L,-10
+Los Angeles Lakers,Milwaukee Bucks,113,103,W,10
+Denver Nuggets,Charlotte Hornets,114,112,W,2
+Charlotte Hornets,Denver Nuggets,112,114,L,-2
+Philadelphia 76ers,Sacramento Kings,125,108,W,17
+Sacramento Kings,Philadelphia 76ers,108,125,L,-17
+Toronto Raptors,Golden State Warriors,121,113,W,8
+Golden State Warriors,Toronto Raptors,113,121,L,-8
+Los Angeles Clippers,Houston Rockets,120,105,W,15
+Houston Rockets,Los Angeles Clippers,105,120,L,-15
+Utah Jazz,New York Knicks,112,104,W,8
+New York Knicks,Utah Jazz,104,112,L,-8
+Memphis Grizzlies,Brooklyn Nets,118,79,W,39
+Brooklyn Nets,Memphis Grizzlies,79,118,L,-39
+Chicago Bulls,Minnesota Timberwolves,108,115,L,-7
+Minnesota Timberwolves,Chicago Bulls,115,108,W,7
+Orlando Magic,Miami Heat,113,116,L,-3
+Miami Heat,Orlando Magic,116,113,W,3
+Washington Wizards,Portland Trail Blazers,104,125,L,-21
+Portland Trail Blazers,Washington Wizards,125,104,W,21
+Boston Celtics,Cleveland Cavaliers,112,106,W,6
+Cleveland Cavaliers,Boston Celtics,106,112,L,-6
+Oklahoma City Thunder,Detroit Pistons,114,107,W,7
+Detroit Pistons,Oklahoma City Thunder,107,114,L,-7
+New Orleans Pelicans,Dallas Mavericks,123,127,L,-4
+Dallas Mavericks,New Orleans Pelicans,127,123,W,4
+Indiana Pacers,Milwaukee Bucks,100,119,L,-19
+Milwaukee Bucks,Indiana Pacers,119,100,W,19
+Brooklyn Nets,Boston Celtics,129,120,W,9
+Boston Celtics,Brooklyn Nets,120,129,L,-9
+Washington Wizards,Sacramento Kings,126,133,L,-7
+Sacramento Kings,Washington Wizards,133,126,W,7
+Toronto Raptors,Phoenix Suns,123,114,W,9
+Phoenix Suns,Toronto Raptors,114,123,L,-9
+San Antonio Spurs,Charlotte Hornets,104,103,W,1
+Charlotte Hornets,San Antonio Spurs,103,104,L,-1
+Philadelphia 76ers,Los Angeles Lakers,107,120,L,-13
+Los Angeles Lakers,Philadelphia 76ers,120,107,W,13
+Golden State Warriors,Denver Nuggets,116,100,W,16
+Denver Nuggets,Golden State Warriors,100,116,L,-16
+Los Angeles Clippers,Oklahoma City Thunder,109,94,W,15
+Oklahoma City Thunder,Los Angeles Clippers,94,109,L,-15
+Minnesota Timberwolves,New Orleans Pelicans,139,134,W,5
+New Orleans Pelicans,Minnesota Timberwolves,134,139,L,-5
+Memphis Grizzlies,Atlanta Hawks,127,88,W,39
+Atlanta Hawks,Memphis Grizzlies,88,127,L,-39
+Houston Rockets,New York Knicks,123,125,L,-2
+New York Knicks,Houston Rockets,125,123,W,2
+Portland Trail Blazers,Orlando Magic,130,107,W,23
+Orlando Magic,Portland Trail Blazers,107,130,L,-23
+Utah Jazz,Cleveland Cavaliers,126,113,W,13
+Cleveland Cavaliers,Utah Jazz,113,126,L,-13
+Indiana Pacers,San Antonio Spurs,116,111,W,5
+San Antonio Spurs,Indiana Pacers,111,116,L,-5
+Dallas Mavericks,Chicago Bulls,107,109,L,-2
+Chicago Bulls,Dallas Mavericks,109,107,W,2
+Milwaukee Bucks,Miami Heat,89,105,L,-16
+Miami Heat,Milwaukee Bucks,105,89,W,16
+Dallas Mavericks,Minnesota Timberwolves,111,91,W,20
+Minnesota Timberwolves,Dallas Mavericks,91,111,L,-20
+Los Angeles Lakers,New Orleans Pelicans,122,114,W,8
+New Orleans Pelicans,Los Angeles Lakers,114,122,L,-8
+Toronto Raptors,Denver Nuggets,118,133,L,-15
+Denver Nuggets,Toronto Raptors,133,118,W,15
+Washington Wizards,Golden State Warriors,124,110,W,14
+Golden State Warriors,Washington Wizards,110,124,L,-14
+Milwaukee Bucks,Charlotte Hornets,93,85,W,8
+Charlotte Hornets,Milwaukee Bucks,85,93,L,-8
+Detroit Pistons,Sacramento Kings,100,106,L,-6
+Sacramento Kings,Detroit Pistons,106,100,W,6
+Philadelphia 76ers,Los Angeles Clippers,130,136,L,-6
+Los Angeles Clippers,Philadelphia 76ers,136,130,W,6
+Orlando Magic,San Antonio Spurs,113,114,L,-1
+San Antonio Spurs,Orlando Magic,114,113,W,1
+Brooklyn Nets,Miami Heat,113,116,L,-3
+Miami Heat,Brooklyn Nets,116,113,W,3
+Indiana Pacers,Cleveland Cavaliers,113,104,W,9
+Cleveland Cavaliers,Indiana Pacers,104,113,L,-9
+Portland Trail Blazers,Atlanta Hawks,117,129,L,-12
+Atlanta Hawks,Portland Trail Blazers,129,117,W,12
+Chicago Bulls,New York Knicks,115,125,L,-10
+New York Knicks,Chicago Bulls,125,115,W,10
+Golden State Warriors,Phoenix Suns,115,99,W,16
+Phoenix Suns,Golden State Warriors,99,115,L,-16
+Los Angeles Lakers,Memphis Grizzlies,88,105,L,-17
+Memphis Grizzlies,Los Angeles Lakers,105,88,W,17
+Houston Rockets,Boston Celtics,111,110,W,1
+Boston Celtics,Houston Rockets,110,111,L,-1
+Sacramento Kings,Memphis Grizzlies,104,101,W,3
+Memphis Grizzlies,Sacramento Kings,101,104,L,-3
+Washington Wizards,Utah Jazz,119,129,L,-10
+Utah Jazz,Washington Wizards,129,119,W,10
+Oklahoma City Thunder,Milwaukee Bucks,86,133,L,-47
+Milwaukee Bucks,Oklahoma City Thunder,133,86,W,47
+Brooklyn Nets,Atlanta Hawks,118,141,L,-23
+Atlanta Hawks,Brooklyn Nets,141,118,W,23
+Detroit Pistons,Phoenix Suns,113,111,W,2
+Phoenix Suns,Detroit Pistons,111,113,L,-2
+Charlotte Hornets,Toronto Raptors,99,96,W,3
+Toronto Raptors,Charlotte Hornets,96,99,L,-3
+Minnesota Timberwolves,Orlando Magic,125,136,L,-11
+Orlando Magic,Minnesota Timberwolves,136,125,W,11
+Denver Nuggets,Los Angeles Clippers,103,132,L,-29
+Los Angeles Clippers,Denver Nuggets,132,103,W,29
+Dallas Mavericks,Miami Heat,118,126,L,-8
+Miami Heat,Dallas Mavericks,126,118,W,8
+Cleveland Cavaliers,New Orleans Pelicans,104,116,L,-12
+New Orleans Pelicans,Cleveland Cavaliers,116,104,W,12
+Los Angeles Lakers,Golden State Warriors,116,86,W,30
+Golden State Warriors,Los Angeles Lakers,86,116,L,-30
+New York Knicks,Philadelphia 76ers,106,115,L,-9
+Philadelphia 76ers,New York Knicks,115,106,W,9
+Portland Trail Blazers,Indiana Pacers,100,106,L,-6
+Indiana Pacers,Portland Trail Blazers,106,100,W,6
+Sacramento Kings,Oklahoma City Thunder,108,112,L,-4
+Oklahoma City Thunder,Sacramento Kings,112,108,W,4
+Philadelphia 76ers,Cleveland Cavaliers,94,108,L,-14
+Cleveland Cavaliers,Philadelphia 76ers,108,94,W,14
+Orlando Magic,Atlanta Hawks,130,120,W,10
+Atlanta Hawks,Orlando Magic,120,130,L,-10
+New York Knicks,Charlotte Hornets,101,107,L,-6
+Charlotte Hornets,New York Knicks,107,101,W,6
+Minnesota Timberwolves,Miami Heat,129,126,W,3
+Miami Heat,Minnesota Timberwolves,126,129,L,-3
+Los Angeles Clippers,Phoenix Suns,102,92,W,10
+Phoenix Suns,Los Angeles Clippers,92,102,L,-10
+Dallas Mavericks,San Antonio Spurs,109,103,W,6
+San Antonio Spurs,Dallas Mavericks,103,109,L,-6
+Memphis Grizzlies,Houston Rockets,112,140,L,-28
+Houston Rockets,Memphis Grizzlies,140,112,W,28
+Brooklyn Nets,Washington Wizards,106,110,L,-4
+Washington Wizards,Brooklyn Nets,110,106,W,4
+Boston Celtics,Utah Jazz,114,103,W,11
+Utah Jazz,Boston Celtics,103,114,L,-11
+Sacramento Kings,Golden State Warriors,112,94,W,18
+Golden State Warriors,Sacramento Kings,94,112,L,-18
+Boston Celtics,Portland Trail Blazers,118,106,W,12
+Portland Trail Blazers,Boston Celtics,106,118,L,-12
+Charlotte Hornets,Indiana Pacers,80,119,L,-39
+Indiana Pacers,Charlotte Hornets,119,80,W,39
+New Orleans Pelicans,Los Angeles Lakers,109,118,L,-9
+Los Angeles Lakers,New Orleans Pelicans,118,109,W,9
+Milwaukee Bucks,Toronto Raptors,108,97,W,11
+Toronto Raptors,Milwaukee Bucks,97,108,L,-11
+Detroit Pistons,Denver Nuggets,98,115,L,-17
+Denver Nuggets,Detroit Pistons,115,98,W,17
+Oklahoma City Thunder,Chicago Bulls,124,122,W,2
+Chicago Bulls,Oklahoma City Thunder,122,124,L,-2
+Phoenix Suns,Utah Jazz,131,111,W,20
+Utah Jazz,Phoenix Suns,111,131,L,-20
+Memphis Grizzlies,Los Angeles Clippers,97,124,L,-27
+Los Angeles Clippers,Memphis Grizzlies,124,97,W,27
+Milwaukee Bucks,Washington Wizards,137,134,W,3
+Washington Wizards,Milwaukee Bucks,134,137,L,-3
+Atlanta Hawks,Philadelphia 76ers,112,129,L,-17
+Philadelphia 76ers,Atlanta Hawks,129,112,W,17
+Minnesota Timberwolves,Dallas Mavericks,123,139,L,-16
+Dallas Mavericks,Minnesota Timberwolves,139,123,W,16
+New York Knicks,Houston Rockets,112,123,L,-11
+Houston Rockets,New York Knicks,123,112,W,11
+Orlando Magic,Brooklyn Nets,115,113,W,2
+Brooklyn Nets,Orlando Magic,113,115,L,-2
+Miami Heat,Cleveland Cavaliers,119,125,L,-6
+Cleveland Cavaliers,Miami Heat,125,119,W,6
+New Orleans Pelicans,Golden State Warriors,115,101,W,14
+Golden State Warriors,New Orleans Pelicans,101,115,L,-14
+Washington Wizards,Chicago Bulls,117,126,L,-9
+Chicago Bulls,Washington Wizards,126,117,W,9
+Detroit Pistons,Portland Trail Blazers,104,107,L,-3
+Portland Trail Blazers,Detroit Pistons,107,104,W,3
+Indiana Pacers,Toronto Raptors,81,127,L,-46
+Toronto Raptors,Indiana Pacers,127,81,W,46
+Boston Celtics,Los Angeles Lakers,112,114,L,-2
+Los Angeles Lakers,Boston Celtics,114,112,W,2
+San Antonio Spurs,Oklahoma City Thunder,103,131,L,-28
+Oklahoma City Thunder,San Antonio Spurs,131,103,W,28
+Minnesota Timberwolves,Denver Nuggets,116,128,L,-12
+Denver Nuggets,Minnesota Timberwolves,128,116,W,12
+Houston Rockets,Utah Jazz,120,110,W,10
+Utah Jazz,Houston Rockets,110,120,L,-10
+Dallas Mavericks,Atlanta Hawks,107,111,L,-4
+Atlanta Hawks,Dallas Mavericks,111,107,W,4
+Philadelphia 76ers,Milwaukee Bucks,98,119,L,-21
+Milwaukee Bucks,Philadelphia 76ers,119,98,W,21
+Phoenix Suns,Chicago Bulls,112,104,W,8
+Chicago Bulls,Phoenix Suns,104,112,L,-8
+Brooklyn Nets,Charlotte Hornets,115,86,W,29
+Charlotte Hornets,Brooklyn Nets,86,115,L,-29
+Sacramento Kings,Los Angeles Clippers,112,103,W,9
+Los Angeles Clippers,Sacramento Kings,103,112,L,-9
+Cleveland Cavaliers,Miami Heat,105,124,L,-19
+Miami Heat,Cleveland Cavaliers,124,105,W,19
+Cleveland Cavaliers,Washington Wizards,113,108,W,5
+Washington Wizards,Cleveland Cavaliers,108,113,L,-5
+Indiana Pacers,New York Knicks,106,98,W,8
+New York Knicks,Indiana Pacers,98,106,L,-8
+Memphis Grizzlies,Los Angeles Lakers,105,117,L,-12
+Los Angeles Lakers,Memphis Grizzlies,117,105,W,12
+Phoenix Suns,Toronto Raptors,101,118,L,-17
+Toronto Raptors,Phoenix Suns,118,101,W,17
+Dallas Mavericks,Orlando Magic,122,106,W,16
+Orlando Magic,Dallas Mavericks,106,122,L,-16
+San Antonio Spurs,Utah Jazz,113,104,W,9
+Utah Jazz,San Antonio Spurs,104,113,L,-9
+New Orleans Pelicans,Portland Trail Blazers,128,115,W,13
+Portland Trail Blazers,New Orleans Pelicans,115,128,L,-13
+Boston Celtics,Minnesota Timberwolves,127,117,W,10
+Minnesota Timberwolves,Boston Celtics,117,127,L,-10
+Denver Nuggets,Oklahoma City Thunder,101,113,L,-12
+Oklahoma City Thunder,Denver Nuggets,113,101,W,12
+Miami Heat,Atlanta Hawks,124,129,L,-5
+Atlanta Hawks,Miami Heat,129,124,W,5
+Brooklyn Nets,Philadelphia 76ers,104,112,L,-8
+Philadelphia 76ers,Brooklyn Nets,112,104,W,8
+Houston Rockets,Golden State Warriors,135,105,W,30
+Golden State Warriors,Houston Rockets,105,135,L,-30
+Memphis Grizzlies,Sacramento Kings,125,129,L,-4
+Sacramento Kings,Memphis Grizzlies,129,125,W,4
+Milwaukee Bucks,Detroit Pistons,126,106,W,20
+Detroit Pistons,Milwaukee Bucks,106,126,L,-20
+Charlotte Hornets,Chicago Bulls,103,93,W,10
+Chicago Bulls,Charlotte Hornets,93,103,L,-10
+Los Angeles Clippers,Boston Celtics,133,141,L,-8
+Boston Celtics,Los Angeles Clippers,141,133,W,8
+Oklahoma City Thunder,New Orleans Pelicans,123,118,W,5
+New Orleans Pelicans,Oklahoma City Thunder,118,123,L,-5
+Detroit Pistons,Orlando Magic,112,116,L,-4
+Orlando Magic,Detroit Pistons,116,112,W,4
+Los Angeles Lakers,Denver Nuggets,120,116,W,4
+Denver Nuggets,Los Angeles Lakers,116,120,L,-4
+Sacramento Kings,Dallas Mavericks,111,130,L,-19
+Dallas Mavericks,Sacramento Kings,130,111,W,19
+Washington Wizards,New York Knicks,114,96,W,18
+New York Knicks,Washington Wizards,96,114,L,-18
+Milwaukee Bucks,Indiana Pacers,111,118,L,-7
+Indiana Pacers,Milwaukee Bucks,118,111,W,7
+Atlanta Hawks,Cleveland Cavaliers,105,127,L,-22
+Cleveland Cavaliers,Atlanta Hawks,127,105,W,22
+Charlotte Hornets,Minnesota Timberwolves,115,108,W,7
+Minnesota Timberwolves,Charlotte Hornets,108,115,L,-7
+Golden State Warriors,Phoenix Suns,106,112,L,-6
+Phoenix Suns,Golden State Warriors,112,106,W,6
+Toronto Raptors,Brooklyn Nets,91,101,L,-10
+Brooklyn Nets,Toronto Raptors,101,91,W,10
+Portland Trail Blazers,Memphis Grizzlies,104,111,L,-7
+Memphis Grizzlies,Portland Trail Blazers,111,104,W,7
+Miami Heat,Utah Jazz,101,116,L,-15
+Utah Jazz,Miami Heat,116,101,W,15
+Los Angeles Clippers,Philadelphia 76ers,103,110,L,-7
+Philadelphia 76ers,Los Angeles Clippers,110,103,W,7
+San Antonio Spurs,Oklahoma City Thunder,114,106,W,8
+Oklahoma City Thunder,San Antonio Spurs,106,114,L,-8
+Boston Celtics,Houston Rockets,105,116,L,-11
+Houston Rockets,Boston Celtics,116,105,W,11
+Portland Trail Blazers,New Orleans Pelicans,117,138,L,-21
+New Orleans Pelicans,Portland Trail Blazers,138,117,W,21
+Chicago Bulls,Washington Wizards,114,126,L,-12
+Washington Wizards,Chicago Bulls,126,114,W,12
+Miami Heat,Golden State Warriors,113,101,W,12
+Golden State Warriors,Miami Heat,101,113,L,-12
+Brooklyn Nets,Indiana Pacers,106,105,W,1
+Indiana Pacers,Brooklyn Nets,105,106,L,-1
+Phoenix Suns,Los Angeles Lakers,100,125,L,-25
+Los Angeles Lakers,Phoenix Suns,125,100,W,25
+Charlotte Hornets,Detroit Pistons,87,76,W,11
+Detroit Pistons,Charlotte Hornets,76,87,L,-11
+San Antonio Spurs,Denver Nuggets,120,127,L,-7
+Denver Nuggets,San Antonio Spurs,127,120,W,7
+Utah Jazz,Dallas Mavericks,123,119,W,4
+Dallas Mavericks,Utah Jazz,119,123,L,-4
+Minnesota Timberwolves,Toronto Raptors,126,137,L,-11
+Toronto Raptors,Minnesota Timberwolves,137,126,W,11
+Sacramento Kings,Milwaukee Bucks,111,123,L,-12
+Milwaukee Bucks,Sacramento Kings,123,111,W,12
+Atlanta Hawks,Orlando Magic,126,135,L,-9
+Orlando Magic,Atlanta Hawks,135,126,W,9
+New York Knicks,Atlanta Hawks,135,140,L,-5
+Atlanta Hawks,New York Knicks,140,135,W,5
+Miami Heat,Portland Trail Blazers,109,115,L,-6
+Portland Trail Blazers,Miami Heat,115,109,W,6
+Chicago Bulls,Philadelphia 76ers,111,118,L,-7
+Philadelphia 76ers,Chicago Bulls,118,111,W,7
+Utah Jazz,Houston Rockets,114,113,W,1
+Houston Rockets,Utah Jazz,113,114,L,-1
+Memphis Grizzlies,Washington Wizards,106,99,W,7
+Washington Wizards,Memphis Grizzlies,99,106,L,-7
+Los Angeles Clippers,Cleveland Cavaliers,133,92,W,41
+Cleveland Cavaliers,Los Angeles Clippers,92,133,L,-41
+Boston Celtics,Oklahoma City Thunder,112,111,W,1
+Oklahoma City Thunder,Boston Celtics,111,112,L,-1
+Dallas Mavericks,Charlotte Hornets,116,100,W,16
+Charlotte Hornets,Dallas Mavericks,100,116,L,-16
+Los Angeles Lakers,Golden State Warriors,125,120,W,5
+Golden State Warriors,Los Angeles Lakers,120,125,L,-5
+Brooklyn Nets,Toronto Raptors,118,119,L,-1
+Toronto Raptors,Brooklyn Nets,119,118,W,1
+Denver Nuggets,Phoenix Suns,117,108,W,9
+Phoenix Suns,Denver Nuggets,108,117,L,-9
+San Antonio Spurs,Sacramento Kings,102,122,L,-20
+Sacramento Kings,San Antonio Spurs,122,102,W,20
+Los Angeles Clippers,Minnesota Timberwolves,115,142,L,-27
+Minnesota Timberwolves,Los Angeles Clippers,142,115,W,27
+Milwaukee Bucks,Orlando Magic,111,95,W,16
+Orlando Magic,Milwaukee Bucks,95,111,L,-16
+New Orleans Pelicans,Indiana Pacers,124,117,W,7
+Indiana Pacers,New Orleans Pelicans,117,124,L,-7
+New York Knicks,Detroit Pistons,95,92,W,3
+Detroit Pistons,New York Knicks,92,95,L,-3
+Atlanta Hawks,Boston Celtics,107,112,L,-5
+Boston Celtics,Atlanta Hawks,112,107,W,5
+Detroit Pistons,Oklahoma City Thunder,101,108,L,-7
+Oklahoma City Thunder,Detroit Pistons,108,101,W,7
+Toronto Raptors,Indiana Pacers,115,106,W,9
+Indiana Pacers,Toronto Raptors,106,115,L,-9
+Dallas Mavericks,Washington Wizards,118,119,L,-1
+Washington Wizards,Dallas Mavericks,119,118,W,1
+Miami Heat,Sacramento Kings,97,105,L,-8
+Sacramento Kings,Miami Heat,105,97,W,8
+Houston Rockets,Phoenix Suns,91,127,L,-36
+Phoenix Suns,Houston Rockets,127,91,W,36
+Portland Trail Blazers,Utah Jazz,114,117,L,-3
+Utah Jazz,Portland Trail Blazers,117,114,W,3
+Memphis Grizzlies,Philadelphia 76ers,107,119,L,-12
+Philadelphia 76ers,Memphis Grizzlies,119,107,W,12
+Houston Rockets,Los Angeles Lakers,121,111,W,10
+Los Angeles Lakers,Houston Rockets,111,121,L,-10
+San Antonio Spurs,Portland Trail Blazers,117,125,L,-8
+Portland Trail Blazers,San Antonio Spurs,125,117,W,8
+Orlando Magic,New York Knicks,103,105,L,-2
+New York Knicks,Orlando Magic,105,103,W,2
+Philadelphia 76ers,Milwaukee Bucks,101,112,L,-11
+Milwaukee Bucks,Philadelphia 76ers,112,101,W,11
+New Orleans Pelicans,Chicago Bulls,125,119,W,6
+Chicago Bulls,New Orleans Pelicans,119,125,L,-6
+Denver Nuggets,Utah Jazz,98,95,W,3
+Utah Jazz,Denver Nuggets,95,98,L,-3
+Golden State Warriors,Brooklyn Nets,88,129,L,-41
+Brooklyn Nets,Golden State Warriors,129,88,W,41
+Orlando Magic,Boston Celtics,100,116,L,-16
+Boston Celtics,Orlando Magic,116,100,W,16
+Indiana Pacers,Toronto Raptors,118,119,L,-1
+Toronto Raptors,Indiana Pacers,119,118,W,1
+Cleveland Cavaliers,Oklahoma City Thunder,103,109,L,-6
+Oklahoma City Thunder,Cleveland Cavaliers,109,103,W,6
+Memphis Grizzlies,Dallas Mavericks,121,107,W,14
+Dallas Mavericks,Memphis Grizzlies,107,121,L,-14
+Miami Heat,Los Angeles Clippers,111,128,L,-17
+Los Angeles Clippers,Miami Heat,128,111,W,17
+Phoenix Suns,Detroit Pistons,108,116,L,-8
+Detroit Pistons,Phoenix Suns,116,108,W,8
+Atlanta Hawks,Minnesota Timberwolves,127,120,W,7
+Minnesota Timberwolves,Atlanta Hawks,120,127,L,-7
+Charlotte Hornets,Houston Rockets,110,125,L,-15
+Houston Rockets,Charlotte Hornets,125,110,W,15
+San Antonio Spurs,Los Angeles Lakers,102,129,L,-27
+Los Angeles Lakers,San Antonio Spurs,129,102,W,27
+Portland Trail Blazers,Denver Nuggets,99,127,L,-28
+Denver Nuggets,Portland Trail Blazers,127,99,W,28
+Milwaukee Bucks,New Orleans Pelicans,120,108,W,12
+New Orleans Pelicans,Milwaukee Bucks,108,120,L,-12
+San Antonio Spurs,Los Angeles Clippers,105,108,L,-3
+Los Angeles Clippers,San Antonio Spurs,108,105,W,3
+Detroit Pistons,Memphis Grizzlies,82,96,L,-14
+Memphis Grizzlies,Detroit Pistons,96,82,W,14
+Golden State Warriors,Washington Wizards,125,117,W,8
+Washington Wizards,Golden State Warriors,117,125,L,-8
+Phoenix Suns,Brooklyn Nets,97,119,L,-22
+Brooklyn Nets,Phoenix Suns,119,97,W,22
+New York Knicks,Cleveland Cavaliers,139,134,W,5
+Cleveland Cavaliers,New York Knicks,134,139,L,-5
+Minnesota Timberwolves,Sacramento Kings,109,113,L,-4
+Sacramento Kings,Minnesota Timberwolves,113,109,W,4
+Boston Celtics,Atlanta Hawks,123,115,W,8
+Atlanta Hawks,Boston Celtics,115,123,L,-8
+Orlando Magic,Charlotte Hornets,112,100,W,12
+Charlotte Hornets,Orlando Magic,100,112,L,-12
+Dallas Mavericks,Indiana Pacers,112,103,W,9
+Indiana Pacers,Dallas Mavericks,103,112,L,-9
+Philadelphia 76ers,Miami Heat,106,137,L,-31
+Miami Heat,Philadelphia 76ers,137,106,W,31
+Denver Nuggets,Detroit Pistons,123,128,L,-5
+Detroit Pistons,Denver Nuggets,128,123,W,5
+Chicago Bulls,Toronto Raptors,102,129,L,-27
+Toronto Raptors,Chicago Bulls,129,102,W,27
+New Orleans Pelicans,Houston Rockets,109,117,L,-8
+Houston Rockets,New Orleans Pelicans,117,109,W,8
+Phoenix Suns,Milwaukee Bucks,108,129,L,-21
+Milwaukee Bucks,Phoenix Suns,129,108,W,21
+Los Angeles Lakers,Sacramento Kings,129,113,W,16
+Sacramento Kings,Los Angeles Lakers,113,129,L,-16
+Minnesota Timberwolves,Los Angeles Clippers,106,118,L,-12
+Los Angeles Clippers,Minnesota Timberwolves,118,106,W,12
+Atlanta Hawks,Dallas Mavericks,100,123,L,-23
+Dallas Mavericks,Atlanta Hawks,123,100,W,23
+Brooklyn Nets,Washington Wizards,107,113,L,-6
+Washington Wizards,Brooklyn Nets,113,107,W,6
+Charlotte Hornets,San Antonio Spurs,90,114,L,-24
+San Antonio Spurs,Charlotte Hornets,114,90,W,24
+Golden State Warriors,Cleveland Cavaliers,131,112,W,19
+Cleveland Cavaliers,Golden State Warriors,112,131,L,-19
+Miami Heat,Orlando Magic,102,89,W,13
+Orlando Magic,Miami Heat,89,102,L,-13
+New York Knicks,Indiana Pacers,92,85,W,7
+Indiana Pacers,New York Knicks,85,92,L,-7
+Utah Jazz,Portland Trail Blazers,107,124,L,-17
+Portland Trail Blazers,Utah Jazz,124,107,W,17
+Philadelphia 76ers,Boston Celtics,95,116,L,-21
+Boston Celtics,Philadelphia 76ers,116,95,W,21
+Portland Trail Blazers,Los Angeles Lakers,127,119,W,8
+Los Angeles Lakers,Portland Trail Blazers,119,127,L,-8
+Oklahoma City Thunder,Phoenix Suns,111,107,W,4
+Phoenix Suns,Oklahoma City Thunder,107,111,L,-4
+Memphis Grizzlies,New Orleans Pelicans,111,139,L,-28
+New Orleans Pelicans,Memphis Grizzlies,139,111,W,28
+Dallas Mavericks,Houston Rockets,121,128,L,-7
+Houston Rockets,Dallas Mavericks,128,121,W,7
+Chicago Bulls,Brooklyn Nets,118,133,L,-15
+Brooklyn Nets,Chicago Bulls,133,118,W,15
+Toronto Raptors,Detroit Pistons,105,92,W,13
+Detroit Pistons,Toronto Raptors,92,105,L,-13
+Denver Nuggets,Milwaukee Bucks,127,115,W,12
+Milwaukee Bucks,Denver Nuggets,115,127,L,-12
+Golden State Warriors,Boston Celtics,104,119,L,-15
+Boston Celtics,Golden State Warriors,119,104,W,15
+Charlotte Hornets,Washington Wizards,107,121,L,-14
+Washington Wizards,Charlotte Hornets,121,107,W,14
+Philadelphia 76ers,Atlanta Hawks,117,127,L,-10
+Atlanta Hawks,Philadelphia 76ers,127,117,W,10
+Sacramento Kings,Los Angeles Clippers,124,103,W,21
+Los Angeles Clippers,Sacramento Kings,103,124,L,-21
+Utah Jazz,Denver Nuggets,100,106,L,-6
+Denver Nuggets,Utah Jazz,106,100,W,6
+Toronto Raptors,Cleveland Cavaliers,115,109,W,6
+Cleveland Cavaliers,Toronto Raptors,109,115,L,-6
+Memphis Grizzlies,New York Knicks,127,106,W,21
+New York Knicks,Memphis Grizzlies,106,127,L,-21
+Utah Jazz,San Antonio Spurs,120,127,L,-7
+San Antonio Spurs,Utah Jazz,127,120,W,7
+Detroit Pistons,Brooklyn Nets,115,125,L,-10
+Brooklyn Nets,Detroit Pistons,125,115,W,10
+Oklahoma City Thunder,Sacramento Kings,120,100,W,20
+Sacramento Kings,Oklahoma City Thunder,100,120,L,-20
+Houston Rockets,Portland Trail Blazers,112,125,L,-13
